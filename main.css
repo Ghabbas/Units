@@ -1,0 +1,35 @@
+\* {
+    margin: 0;
+}
+
+#navbar {
+    height: 30px;
+    background-color: #033b3bb4;
+}
+
+.logo {
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.hero{
+color: #12a081;
+background: fixed;
+min-height: calc(100% -30px);
+}
+
+span {
+    color: rgba(10, 26, 95, 0.596);
+    font-size: 16px;
+}
+
+button {
+    background-color: #033b3bb4;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    
+}
